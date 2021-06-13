@@ -44,6 +44,5 @@ by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad**
 
 LINKS EXAMPLE:
 ## 📝 Blogs
-<!-- BLOG-POST-LIST:START -->
 - [Steps to Create a Mind Blowing (🤯) Portfolio](https://dev.to/ruppysuppy/steps-to-create-a-mind-blowing-portfolio-4562)
 --->
